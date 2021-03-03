@@ -1,2 +1,2 @@
-# Super-Mario-Bros
-A recreation of the classic 1985 Super Mario Bros NES
+# Tetris
+A recreation of the classic 1984 retro game Tetris
